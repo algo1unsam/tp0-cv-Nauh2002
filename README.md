@@ -1,6 +1,6 @@
 # **Nahuel Garcia - Técnico Universitario en Programación Informática**
 
-![River] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandemia.org%2Fnuevo-escudo-del-river-plate&psig=AOvVaw2wYqPGGuhaefJh86djgfJm&ust=1723730549855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiGmuzS9IcDFQAAAAAdAAAAABAE)
+![River] (https://brandemia.org/contenido/subidas/2022/02/000-river-plate.jpg)
 
 ## _**Acerca de mi**_
 
