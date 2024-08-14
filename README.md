@@ -6,6 +6,18 @@
 Soy un programador y fanático de River Plate en busca de una oportunidad de crear soluciones innovadoras que mejoren la experiencia del usuario o de la empresa. con más de **5 años de experiencia**, he trabajado en diversos proyectos que abarcan desde aplicaciones web hasta el desarrollo de videojuegos. Mi enfoque está en el _desarrollo ágil_, utilizando las mejores prácticas para garantizar código limpio y eficiente.
 
 
+## _**Educación**_
+
+- "Tecnicatura Universitario en Programación Informática"
+  - Universidad Nacional de San Martin
+  - _2019 - 2022_
+
+- **Certificación en Desarrollo de Videojuegos**
+  - Escuela Da Vinci
+  - _2023 - 2024_
+
+
+
 ## _**Conocimientos Técnicos**_
 
 - HTML
@@ -25,17 +37,6 @@ Soy un programador y fanático de River Plate en busca de una oportunidad de cre
 - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## _**Educación**_
-
-- "Tecnicatura Universitario en Programación Informática"
-  - Universidad Nacional de San Martin
-  - _2019 - 2022_
-
-- **Certificación en Desarrollo de Videojuegos**
-  - Escuela Da Vinci
-  - _2023 - 2024_
-
-
 
 ## _**Videojuegos Favoritos**_
 
@@ -53,6 +54,11 @@ Soy un programador y fanático de River Plate en busca de una oportunidad de cre
    - _Descripción_: Un juego de estrategia en tiempo real que combina elementos de juegos de cartas coleccionables y defensa de torres. Los jugadores construyen mazos con cartas que representan tropas, hechizos y estructuras para luchar en batallas PvP en línea. El objetivo es destruir las torres del oponente mientras defiendes las propias, utilizando tácticas y habilidades para obtener la victoria.
 
 
+### _**Contacto**_
+
+- **Email**: nahuelgarrcia912@gmail.com
+- **Celular**: +54 11 4174-3277
+- **Ubicación**: San Martin
 
 
  
