@@ -1,6 +1,7 @@
 # **Nahuel Garcia - Técnico Universitario en Programación Informática**
 
-![River Plate](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_River_Plate.svg/200px-Logo_River_Plate.svg.png)
+![River Plate](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Emblema_River_Plate.png/200px-Emblema_River_Plate.png)
+
 
 ## _**Acerca de mi**_
 
