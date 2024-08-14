@@ -1,6 +1,6 @@
 # **Nahuel Garcia - Técnico Universitario en Programación Informática**
 
-![River] (https://brandemia.org/contenido/subidas/2022/02/000-river-plate.jpg)
+! [River] (https://brandemia.org/contenido/subidas/2022/02/000-river-plate.jpg)
 
 ## _**Acerca de mi**_
 
